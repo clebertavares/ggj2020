@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="15" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="TileA4" tilewidth="32" tileheight="32" tilecount="240" columns="16">
+  <image source="Futuristic Tiles/System/TileA4.png" width="512" height="480"/>
+ </tileset>
+ <tileset firstgid="241" name="TileA5" tilewidth="32" tileheight="32" tilecount="128" columns="8">
+  <image source="Futuristic Tiles/System/TileA5.png" width="256" height="512"/>
+ </tileset>
+ <tileset firstgid="369" name="TileB" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="Futuristic Tiles/System/TileB.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="625" name="TileC" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="Futuristic Tiles/System/TileC.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="881" name="TileD" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="Futuristic Tiles/System/TileD.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1137" name="TileE" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="Futuristic Tiles/System/TileE.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1393" name="TileE" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="Futuristic Tiles/System/TileE.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1649" name="16215489_1118486018261628_1024746136_n" tilewidth="32" tileheight="32" tilecount="240" columns="16">
+  <image source="Futuristic Tiles/System/TileA4.png" width="512" height="480"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="1" x="-1.33333" y="-1.33333" width="34.6667" height="34.6667"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="10" height="15">
+  <data encoding="csv">
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302,
+302,302,302,302,302,302,302,302,302,302
+</data>
+ </layer>
+ <layer name="Tile Layer 2" width="10" height="15">
+  <data encoding="csv">
+907,908,909,910,0,0,0,0,0,0,
+923,924,925,926,921,921,936,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer name="Tile Layer 3" width="10" height="15">
+  <data encoding="csv">
+0,0,0,0,912,0,0,0,0,1142,
+0,0,0,0,0,1333,0,0,0,1158,
+0,0,0,0,0,0,0,0,0,0,
+0,0,475,892,893,476,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,5,5,5,5,0,0,
+0,0,0,0,5,1318,3221226786,0,0,0,
+0,0,0,970,5,0,0,0,0,1180,
+0,0,0,940,5,0,0,0,2684355464,2684355448,
+0,0,0,956,5,1317,0,0,0,2684355880,
+0,0,0,0,5,1316,1315,0,0,0,
+0,0,0,0,5,5,5,5,5,5,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,1141,0,0,1141,0,0,0,
+0,0,0,1157,0,0,1157,0,0,0
+</data>
+ </layer>
+ <layer name="Tile Layer 4" width="10" height="15" opacity="0">
+  <data encoding="csv">
+1649,1649,1649,1649,1649,1649,1649,1649,1649,1649,
+1649,1649,1649,1649,1649,1649,1649,0,0,1649,
+1649,0,0,0,0,0,0,0,0,1649,
+1649,0,1649,1649,1649,1649,0,0,0,1649,
+1649,0,0,0,0,0,0,0,0,1649,
+1649,0,0,0,1649,1649,1649,1649,0,1649,
+1649,0,0,0,1649,1649,1649,0,0,1649,
+1649,0,0,1649,1649,0,0,0,0,1649,
+1649,0,0,1649,1649,0,0,0,1649,1649,
+1649,0,0,1649,1649,1649,0,0,0,1649,
+1649,0,0,0,1649,1649,1649,0,0,1649,
+1649,0,0,0,1649,1649,1649,1649,1649,1649,
+1649,0,0,0,0,0,0,0,0,1649,
+1649,0,0,1649,0,0,1649,0,0,1649,
+1649,1649,1649,1649,0,0,1649,1649,1649,1649
+</data>
+ </layer>
+ <layer name="Tile Layer 5" width="10" height="15">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,941,942,0,0,0,941,942,0,0,
+0,957,958,0,0,0,957,958,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

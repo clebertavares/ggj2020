@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 409ef9eb8bde2ae4ca02eae3b255f02d
+timeCreated: 1484981864
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - openChest: {instanceID: 0}
+  - medChest: {fileID: 21300014, guid: 5d8113d9ea837494d8c1e45736180477, type: 3}
+  - closedChest: {instanceID: 0}
+  - openChestSound: {instanceID: 0}
+  - chestLoot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

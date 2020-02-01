@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AirConsole/examples/basic/basic.unity
+  isLoaded: 1
+  isActive: 1

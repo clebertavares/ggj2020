@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 32f84cd374f9dd147bb69ea793444f91
+timeCreated: 1468549727
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: town_pack_0
+    21300002: town_pack_1
+    21300004: town_pack_2
+    21300006: town_pack_3
+    21300008: town_pack_4
+    21300010: town_pack_5
+    21300012: town_pack_6
+    21300014: town_pack_7
+    21300016: town_pack_8
+    21300018: town_pack_9
+    21300020: town_pack_10
+    21300022: town_pack_11
+    21300024: town_pack_12
+    21300026: town_pack_13
+    21300028: town_pack_14
+    21300030: town_pack_15
+    21300032: town_pack_16
+    21300034: town_pack_17
+    21300036: town_pack_18
+    21300038: town_pack_19
+    21300040: town_pack_20
+    21300042: town_pack_21
+    21300044: town_pack_22
+    21300046: town_pack_23
+    21300048: town_pack_24
+    21300050: town_pack_25
+    21300052: town_pack_26
+    21300054: town_pack_27
+    21300056: town_pack_28
+    21300058: town_pack_29
+    21300060: town_pack_30
+    21300062: town_pack_31
+    21300064: town_pack_32
+    21300066: town_pack_33
+    21300068: town_pack_34
+    21300070: town_pack_35
+    21300072: town_pack_36
+    21300074: town_pack_37
+    21300076: town_pack_38
+    21300078: town_pack_39
+    21300080: town_pack_40
+    21300082: town_pack_41
+    21300084: town_pack_42
+    21300086: town_pack_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: town_pack_0
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 845
+        width: 475
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.5, y: -101.79999}
+        - {x: 79.5, y: -98.79999}
+        - {x: 82.5, y: -98.79999}
+        - {x: 84.5, y: -96.79999}
+        - {x: 84.5, y: -73.79999}
+        - {x: 237.5, y: -73.79999}
+        - {x: 237.5, y: 249.20001}
+        - {x: -237.5, y: 249.20001}
+        - {x: -237.5, y: -73.79999}
+        - {x: -79.5, y: -73.79999}
+        - {x: -79.5, y: -96.79999}
+        - {x: -77.5, y: -98.79999}
+        - {x: -74.5, y: -98.79999}
+        - {x: -74.5, y: -101.79999}
+        - {x: -72.5, y: -103.79999}
+        - {x: -69.5, y: -103.79999}
+        - {x: -69.5, y: -106.79999}
+        - {x: 74.5, y: -106.79999}
+        - {x: 74.5, y: -103.79999}
+        - {x: 77.5, y: -103.79999}
+    - name: town_pack_1
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1040
+        width: 245
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 120}
+        - {x: -122.5, y: -40}
+        - {x: 122.5, y: -40}
+        - {x: 122.5, y: 120}
+    - name: town_pack_2
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 240
+        height: 540
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120, y: 486}
+        - {x: -120, y: -54}
+        - {x: 120, y: -54}
+        - {x: 120, y: 486}
+    - name: town_pack_3
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 880
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 104}
+        - {x: -80, y: -56}
+        - {x: 80, y: -56}
+        - {x: 80, y: 104}
+    - name: town_pack_4
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 720
+        width: 60
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 65.20001}
+        - {x: -30, y: -11.799988}
+        - {x: -22, y: -14.799988}
+        - {x: 19, y: -14.799988}
+        - {x: 30, y: -6.799988}
+        - {x: 30, y: 55.200012}
+        - {x: 22, y: 65.20001}
+    - name: town_pack_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 732
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -13}
+        - {x: -29.5, y: -29}
+        - {x: -25.5, y: -32}
+        - {x: -10.5, y: -32}
+        - {x: -10.5, y: -18}
+        - {x: -15.5, y: -13}
+      - - {x: 10.5, y: -8}
+        - {x: 10.5, y: -22}
+        - {x: 15.5, y: -27}
+        - {x: 29.5, y: -27}
+        - {x: 29.5, y: -11}
+        - {x: 26.5, y: -8}
+      - - {x: 0.5, y: 12}
+        - {x: -14.5, y: 12}
+        - {x: -14.5, y: -2}
+        - {x: -10.5, y: -7}
+        - {x: 3.5, y: -7}
+        - {x: 4.5, y: -5}
+        - {x: 4.5, y: 7}
+      - - {x: 21.5, y: 22}
+        - {x: 5.5, y: 22}
+        - {x: 5.5, y: 8}
+        - {x: 9.5, y: 4}
+        - {x: 12.5, y: 3}
+        - {x: 22.5, y: 3}
+        - {x: 24.5, y: 5}
+        - {x: 24.5, y: 17}
+      - - {x: -19.5, y: 32}
+        - {x: -19.5, y: 16}
+        - {x: -15.5, y: 13}
+        - {x: -0.5, y: 13}
+        - {x: -0.5, y: 27}
+        - {x: -5.5, y: 32}
+    - name: town_pack_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 677
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 5}
+        - {x: -30.5, y: 5}
+        - {x: -30.5, y: -10}
+        - {x: -26.5, y: -13}
+        - {x: -23.5, y: -14}
+        - {x: -13.5, y: -14}
+        - {x: -11.5, y: -12}
+        - {x: -11.5, y: 0}
+      - - {x: 9.5, y: 10}
+        - {x: 9.5, y: -4}
+        - {x: 14.5, y: -9}
+        - {x: 28.5, y: -9}
+        - {x: 28.5, y: 7}
+        - {x: 25.5, y: 10}
+    - name: town_pack_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 679
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 6.5}
+        - {x: -30, y: -7.5}
+        - {x: -27, y: -12.5}
+        - {x: -11, y: -12.5}
+        - {x: -11, y: 1.5}
+        - {x: -14, y: 6.5}
+      - - {x: 10, y: 11.5}
+        - {x: 10, y: -2.5}
+        - {x: 15, y: -7.5}
+        - {x: 29, y: -7.5}
+        - {x: 29, y: 8.5}
+        - {x: 26, y: 11.5}
+    - name: town_pack_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 729
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 19}
+        - {x: -21.5, y: 9}
+        - {x: -23.5, y: 2}
+        - {x: -23.5, y: -11}
+        - {x: -10.5, y: -15}
+        - {x: 12.5, y: -15}
+        - {x: 20.5, y: -10}
+        - {x: 20.5, y: 18}
+        - {x: 17.5, y: 19}
+    - name: town_pack_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 725
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 35}
+        - {x: -30, y: 27}
+        - {x: -30, y: -35}
+        - {x: 21, y: -35}
+        - {x: 30, y: -23}
+        - {x: 30, y: 34}
+        - {x: 25, y: 35}
+    - name: town_pack_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 40}
+        - {x: -40, y: -40}
+        - {x: 40, y: -40}
+        - {x: 40, y: 40}
+    - name: town_pack_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1201
+        width: 475
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.5, y: 84.5}
+        - {x: -97.5, y: 86.5}
+        - {x: -100.5, y: 86.5}
+        - {x: -100.5, y: 94.5}
+        - {x: -139.5, y: 94.5}
+        - {x: -139.5, y: 91.5}
+        - {x: -142.5, y: 91.5}
+        - {x: -144.5, y: 89.5}
+        - {x: -144.5, y: 66.5}
+        - {x: -237.5, y: 66.5}
+        - {x: -237.5, y: -94.5}
+        - {x: 237.5, y: -94.5}
+        - {x: 237.5, y: 66.5}
+        - {x: -95.5, y: 66.5}
+    - name: town_pack_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 740
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: -56}
+        - {x: 120, y: 63}
+        - {x: 115, y: 73}
+        - {x: 85, y: 100}
+        - {x: -83, y: 100}
+        - {x: -98, y: 91}
+        - {x: -120, y: 65}
+        - {x: -120, y: -32}
+        - {x: -116, y: -60}
+        - {x: -80, y: -100}
+        - {x: 72, y: -100}
+    - name: town_pack_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 60
+        width: 470
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -168}
+        - {x: 23, y: -170}
+        - {x: 122, y: -170}
+        - {x: 123, y: -168}
+        - {x: 123, y: -170}
+        - {x: 187, y: -170}
+        - {x: 187, y: -152}
+        - {x: 235, y: -152}
+        - {x: 235, y: 170}
+        - {x: -167, y: 170}
+        - {x: -167, y: 167}
+        - {x: -175, y: 167}
+        - {x: -177, y: 165}
+        - {x: -177, y: 157}
+        - {x: -195, y: 157}
+        - {x: -197, y: 155}
+        - {x: -197, y: 147}
+        - {x: -205, y: 147}
+        - {x: -212, y: 140}
+        - {x: -212, y: 132}
+        - {x: -220, y: 132}
+        - {x: -222, y: 130}
+        - {x: -225, y: 122}
+        - {x: -232, y: 115}
+        - {x: -235, y: 108}
+        - {x: -235, y: 88}
+        - {x: -233, y: 87}
+        - {x: -235, y: 87}
+        - {x: -235, y: 43}
+        - {x: -232, y: 43}
+        - {x: -235, y: 38}
+        - {x: -235, y: -37}
+        - {x: -232, y: -37}
+        - {x: -235, y: -42}
+        - {x: -235, y: -112}
+        - {x: -232, y: -112}
+        - {x: -232, y: -120}
+        - {x: -225, y: -127}
+        - {x: -217, y: -130}
+        - {x: -205, y: -142}
+        - {x: -202, y: -142}
+        - {x: -202, y: -145}
+        - {x: -200, y: -147}
+        - {x: -197, y: -147}
+        - {x: -197, y: -170}
+        - {x: 22, y: -170}
+    - name: town_pack_15
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 120
+        width: 135
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: 32.5}
+        - {x: -67.5, y: 9.5}
+        - {x: -39.5, y: -32.5}
+        - {x: 34.5, y: -32.5}
+        - {x: 67.5, y: 9.5}
+        - {x: 67.5, y: 32.5}
+    - name: town_pack_16
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 165
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: town_pack_17
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 165
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: town_pack_18
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 325
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: town_pack_19
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 325
+        width: 180
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: town_pack_20
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 325
+        width: 75
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: town_pack_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 260
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 131.19995}
+        - {x: 66, y: 43.19995}
+        - {x: -79, y: 65.19995}
+        - {x: -68, y: 45.19995}
+        - {x: -92, y: 131.19995}
+        - {x: -130, y: 131.19995}
+        - {x: -130, y: -28.800049}
+        - {x: 130, y: -28.800049}
+        - {x: 130, y: 131.19995}
+    - name: town_pack_22
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 845
+        width: 74
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 365.75}
+        - {x: -37, y: 273.75}
+        - {x: -37, y: -19.25}
+        - {x: 37, y: -19.25}
+        - {x: 37, y: 365.75}
+    - name: town_pack_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 845
+        width: 275
+        height: 505
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -49.75}
+        - {x: -34.5, y: -44.75}
+        - {x: -47.5, y: -38.75}
+        - {x: -32.5, y: -32.75}
+        - {x: -24.5, y: -55.75}
+        - {x: -24.5, y: -61.75}
+        - {x: -23.5, y: -75.75}
+        - {x: 56.5, y: -75.75}
+        - {x: 54.5, y: -63.75}
+        - {x: 54.5, y: -54.75}
+        - {x: 53.5, y: -52.75}
+        - {x: 43.5, y: -42.75}
+        - {x: 32.5, y: -38.75}
+        - {x: 60.5, y: -46.75}
+        - {x: 55.5, y: -52.75}
+        - {x: 54.5, y: -61.75}
+        - {x: 64.5, y: -75.75}
+        - {x: 134.5, y: -75.75}
+        - {x: 134.5, y: 365.25}
+        - {x: 119.5, y: 429.25}
+        - {x: 82.5, y: 429.25}
+        - {x: 80.5, y: 425.25}
+        - {x: 54.5, y: 368.25}
+        - {x: 50.5, y: 357.25}
+        - {x: 43.5, y: 318.25}
+        - {x: 40.5, y: 309.25}
+        - {x: 39.5, y: 303.25}
+        - {x: 39.5, y: 293.25}
+        - {x: 39.5, y: 299.25}
+        - {x: 37.5, y: 301.25}
+        - {x: 39.5, y: 304.25}
+        - {x: 40.5, y: 310.25}
+        - {x: 43.5, y: 318.25}
+        - {x: 43.5, y: 362.25}
+        - {x: 19.5, y: 429.25}
+        - {x: 5.5, y: 429.25}
+        - {x: 0.5, y: 425.25}
+        - {x: -30.5, y: 355.25}
+        - {x: -39.5, y: 309.25}
+        - {x: -40.5, y: 303.25}
+        - {x: -40.5, y: 293.25}
+        - {x: -35.5, y: 291.25}
+        - {x: -35.5, y: 273.25}
+        - {x: -38.5, y: 286.25}
+        - {x: -44.5, y: 287.25}
+        - {x: -40.5, y: 294.25}
+        - {x: -40.5, y: 299.25}
+        - {x: -42.5, y: 301.25}
+        - {x: -40.5, y: 304.25}
+        - {x: -39.5, y: 310.25}
+        - {x: -37.5, y: 326.25}
+        - {x: -53.5, y: 423.25}
+        - {x: -64.5, y: 429.25}
+        - {x: -84.5, y: 429.25}
+        - {x: -137.5, y: 388.25}
+        - {x: -137.5, y: -56.75}
+        - {x: -113.5, y: -74.75}
+        - {x: -108.5, y: -75.75}
+        - {x: -33.5, y: -75.75}
+        - {x: -29.5, y: -70.75}
+        - {x: -25.5, y: -61.75}
+        - {x: -25.5, y: -55.75}
+    - name: town_pack_24
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 660
+        width: 75
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 70}
+        - {x: -37.5, y: -70}
+        - {x: 37.5, y: -70}
+        - {x: 37.5, y: 70}
+    - name: town_pack_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -170}
+        - {x: -13, y: -167}
+        - {x: 0, y: -170}
+        - {x: 27, y: -170}
+        - {x: 27, y: -167}
+        - {x: 44, y: -170}
+        - {x: 112, y: -170}
+        - {x: 120, y: -162}
+        - {x: 120, y: -143}
+        - {x: 117, y: -143}
+        - {x: 120, y: -134}
+        - {x: 120, y: 170}
+        - {x: -120, y: 170}
+        - {x: -120, y: -89}
+        - {x: -118, y: -96}
+        - {x: -113, y: -98}
+        - {x: -117, y: -120}
+        - {x: -120, y: -131}
+        - {x: -120, y: -152}
+        - {x: -117, y: -152}
+        - {x: -118, y: -166}
+        - {x: -114, y: -170}
+        - {x: -63, y: -170}
+        - {x: -63, y: -167}
+        - {x: -50, y: -170}
+    - name: town_pack_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 455
+        width: 320
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148, y: -97.5}
+        - {x: 150, y: -99.5}
+        - {x: 160, y: -99.5}
+        - {x: 160, y: 102.5}
+        - {x: -160, y: 102.5}
+        - {x: -160, y: -99.5}
+        - {x: -155, y: -99.5}
+        - {x: -153, y: -97.5}
+        - {x: -152, y: -95.5}
+        - {x: -152, y: -97.5}
+        - {x: -150, y: -99.5}
+        - {x: -55, y: -99.5}
+        - {x: -53, y: -97.5}
+        - {x: -52, y: -97.5}
+        - {x: -50, y: -99.5}
+        - {x: 45, y: -99.5}
+        - {x: 47, y: -97.5}
+        - {x: 48, y: -95.5}
+        - {x: 48, y: -97.5}
+        - {x: 50, y: -99.5}
+        - {x: 63, y: -99.5}
+        - {x: 63, y: -102.5}
+        - {x: 72, y: -102.5}
+        - {x: 72, y: -99.5}
+        - {x: 145, y: -99.5}
+        - {x: 147, y: -97.5}
+    - name: town_pack_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 460
+        width: 80
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 100}
+        - {x: -40, y: 100}
+        - {x: -40, y: -100}
+        - {x: -33, y: -100}
+        - {x: -32, y: -98}
+        - {x: -32, y: -100}
+        - {x: 40, y: -100}
+    - name: town_pack_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 240
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -100}
+        - {x: -13, y: -97}
+        - {x: -12, y: -98}
+        - {x: -12, y: -100}
+        - {x: 87, y: -100}
+        - {x: 87, y: -97}
+        - {x: 88, y: -98}
+        - {x: 88, y: -100}
+        - {x: 120, y: -100}
+        - {x: 120, y: 100}
+        - {x: -120, y: 100}
+        - {x: -120, y: -100}
+        - {x: -53, y: -100}
+        - {x: -53, y: -97}
+        - {x: -52, y: -98}
+        - {x: -52, y: -100}
+    - name: town_pack_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1260
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 60}
+        - {x: -119, y: -45}
+        - {x: -120, y: -49}
+        - {x: -120, y: -60}
+        - {x: 120, y: -60}
+        - {x: 120, y: -48}
+        - {x: 10, y: 60}
+    - name: town_pack_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 730
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 30}
+        - {x: -32.5, y: -30}
+        - {x: 32.5, y: -30}
+        - {x: 32.5, y: 30}
+    - name: town_pack_33
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 505
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 30}
+        - {x: -32.5, y: -27}
+        - {x: -29.5, y: -30}
+        - {x: 29.5, y: -30}
+        - {x: 32.5, y: -27}
+        - {x: 32.5, y: 30}
+    - name: town_pack_34
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 445
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 30}
+        - {x: -32.5, y: -27}
+        - {x: -29.5, y: -30}
+        - {x: 29.5, y: -30}
+        - {x: 32.5, y: -27}
+        - {x: 32.5, y: 30}
+    - name: town_pack_35
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 400
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 22.5}
+        - {x: -32.5, y: -19.5}
+        - {x: -25.5, y: -22.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 32.5, y: -12.5}
+        - {x: 32.5, y: 17.5}
+        - {x: 29.5, y: 22.5}
+    - name: town_pack_36
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 565
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 32.5}
+        - {x: -32.5, y: -29.5}
+        - {x: -29.5, y: -32.5}
+        - {x: 29.5, y: -32.5}
+        - {x: 32.5, y: -29.5}
+        - {x: 32.5, y: 32.5}
+    - name: town_pack_37
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 565
+        width: 165
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 32.5}
+        - {x: -82.5, y: 27.5}
+        - {x: -82.5, y: -25.5}
+        - {x: -72.5, y: -32.5}
+        - {x: 82.5, y: -32.5}
+        - {x: 82.5, y: 32.5}
+    - name: town_pack_38
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 630
+        width: 65
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 84}
+        - {x: -32.5, y: 78}
+        - {x: -32.5, y: -81}
+        - {x: -29.5, y: -84}
+        - {x: 32.5, y: -84}
+        - {x: 32.5, y: 75}
+        - {x: 21.5, y: 84}
+    - name: town_pack_39
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 565
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 32.5}
+        - {x: -25, y: -32.5}
+        - {x: 7, y: -32.5}
+        - {x: 24, y: -17.5}
+        - {x: 25, y: -13.5}
+        - {x: 25, y: 32.5}
+      - - {x: 18, y: -27.5}
+        - {x: 18, y: -32.5}
+        - {x: 25, y: -32.5}
+        - {x: 25, y: -25.5}
+        - {x: 20, y: -25.5}
+    - name: town_pack_40
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 565
+        width: 270
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135, y: 32.5}
+        - {x: -135, y: 32.5}
+        - {x: -135, y: -29.5}
+        - {x: -132, y: -32.5}
+        - {x: 135, y: -32.5}
+    - name: town_pack_32
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 120
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: 32}
+        - {x: -67.5, y: 10}
+        - {x: -39.5, y: -32}
+        - {x: 34.5, y: -32}
+        - {x: 67.5, y: 10}
+        - {x: 67.5, y: 32}
+    - name: town_pack_43
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 85
+        width: 65
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 95}
+        - {x: -32.5, y: 41}
+        - {x: -16.5, y: -1}
+        - {x: -14.5, y: -5}
+        - {x: 11.5, y: -5}
+        - {x: 19.5, y: -3}
+        - {x: 32.5, y: 41}
+        - {x: 32.5, y: 95}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

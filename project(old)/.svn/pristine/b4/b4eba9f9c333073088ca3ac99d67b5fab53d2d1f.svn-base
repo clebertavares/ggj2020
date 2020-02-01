@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ggj1.cs">
+    <Files>
+      <File FileName="Assets\Troll Bridge Studios\2D Starter Kit\_Scripts\Options\Options_Manager.cs" Line="14" Column="34" />
+      <File FileName="Assets\Troll Bridge Studios\2D Starter Kit\_Scripts\Items\Item_GameObject.cs" Line="235" Column="17" />
+      <File FileName="Assets\Troll Bridge Studios\2D Starter Kit\_Scripts\Characters\Player\Additions\Key.cs" Line="38" Column="3" />
+      <File FileName="Assets\Troll Bridge Studios\2D Starter Kit\_Scripts\Game Helper Managers\Setup.cs" Line="126" Column="1" />
+      <File FileName="Assets\Troll Bridge Studios\2D Starter Kit\_Scripts\Items\Chest\Chest.cs" Line="71" Column="25" />
+      <File FileName="Assets\Troll Bridge Studios\2D Starter Kit\_Scripts\Camera\Free Follow Camera\Camera_Follow_Player.cs" Line="172" Column="1" />
+      <File FileName="Assets\Troll Bridge Studios\2D Starter Kit\_Scripts\AI\Movement\Point_To_Point_Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Troll Bridge Studios\2D Starter Kit\_Scripts\Characters\NPC\Animation_Direction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Troll Bridge Studios\2D Starter Kit\_Scripts\Dialogue\Area_Dialogue.cs" Line="374" Column="1" />
+      <File FileName="Assets\ggj1.cs" Line="9" Column="17" />
+      <File FileName="Assets\ggj2.cs" Line="12" Column="8" />
+      <File FileName="Assets\ggj3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

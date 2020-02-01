@@ -1,0 +1,2789 @@
+fileFormatVersion: 2
+guid: d660f329848de7946a26c23db7ce88cf
+timeCreated: 1485055777
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: parallax_materials_0
+    21300002: parallax_materials_1
+    21300004: parallax_materials_2
+    21300006: parallax_materials_3
+    21300008: parallax_materials_4
+    21300010: parallax_materials_5
+    21300012: parallax_materials_6
+    21300014: parallax_materials_7
+    21300016: parallax_materials_8
+    21300018: parallax_materials_9
+    21300020: parallax_materials_10
+    21300022: parallax_materials_11
+    21300024: parallax_materials_12
+    21300026: parallax_materials_13
+    21300028: parallax_materials_14
+    21300030: parallax_materials_15
+    21300032: parallax_materials_16
+    21300034: parallax_materials_17
+    21300036: parallax_materials_18
+    21300038: parallax_materials_19
+    21300040: parallax_materials_20
+    21300042: parallax_materials_21
+    21300044: parallax_materials_22
+    21300046: parallax_materials_23
+    21300048: parallax_materials_24
+    21300050: parallax_materials_25
+    21300052: parallax_materials_26
+    21300054: parallax_materials_27
+    21300056: parallax_materials_28
+    21300058: parallax_materials_29
+    21300060: parallax_materials_30
+    21300062: parallax_materials_31
+    21300064: parallax_materials_32
+    21300066: parallax_materials_33
+    21300068: parallax_materials_34
+    21300070: parallax_materials_35
+    21300072: parallax_materials_36
+    21300074: parallax_materials_37
+    21300076: parallax_materials_38
+    21300078: parallax_materials_39
+    21300080: parallax_materials_40
+    21300082: parallax_materials_41
+    21300084: parallax_materials_42
+    21300086: parallax_materials_43
+    21300088: parallax_materials_44
+    21300090: parallax_materials_45
+    21300092: parallax_materials_46
+    21300094: parallax_materials_47
+    21300096: parallax_materials_48
+    21300098: parallax_materials_49
+    21300100: parallax_materials_50
+    21300102: parallax_materials_51
+    21300104: parallax_materials_52
+    21300106: parallax_materials_53
+    21300108: parallax_materials_54
+    21300110: parallax_materials_55
+    21300112: parallax_materials_56
+    21300114: parallax_materials_57
+    21300116: parallax_materials_58
+    21300118: parallax_materials_59
+    21300120: parallax_materials_60
+    21300122: parallax_materials_61
+    21300124: parallax_materials_62
+    21300126: parallax_materials_63
+    21300128: parallax_materials_64
+    21300130: parallax_materials_65
+    21300132: parallax_materials_66
+    21300134: parallax_materials_67
+    21300136: parallax_materials_68
+    21300138: parallax_materials_69
+    21300140: parallax_materials_70
+    21300142: parallax_materials_71
+    21300144: parallax_materials_72
+    21300146: parallax_materials_73
+    21300148: parallax_materials_74
+    21300150: parallax_materials_75
+    21300152: parallax_materials_76
+    21300154: parallax_materials_77
+    21300156: parallax_materials_78
+    21300158: parallax_materials_79
+    21300160: parallax_materials_80
+    21300162: parallax_materials_81
+    21300164: parallax_materials_82
+    21300166: parallax_materials_83
+    21300168: parallax_materials_84
+    21300170: parallax_materials_85
+    21300172: parallax_materials_86
+    21300174: parallax_materials_87
+    21300176: parallax_materials_88
+    21300178: parallax_materials_89
+    21300180: parallax_materials_90
+    21300182: parallax_materials_91
+    21300184: parallax_materials_92
+    21300186: parallax_materials_93
+    21300188: parallax_materials_94
+    21300190: parallax_materials_95
+    21300192: parallax_materials_96
+    21300194: parallax_materials_97
+    21300196: parallax_materials_98
+    21300198: parallax_materials_99
+    21300200: parallax_materials_100
+    21300202: parallax_materials_101
+    21300204: parallax_materials_102
+    21300206: parallax_materials_103
+    21300208: parallax_materials_104
+    21300210: parallax_materials_105
+    21300212: parallax_materials_106
+    21300214: parallax_materials_107
+    21300216: parallax_materials_108
+    21300218: parallax_materials_109
+    21300220: parallax_materials_110
+    21300222: parallax_materials_111
+    21300224: parallax_materials_112
+    21300226: parallax_materials_113
+    21300228: parallax_materials_114
+    21300230: parallax_materials_115
+    21300232: parallax_materials_116
+    21300234: parallax_materials_117
+    21300236: parallax_materials_118
+    21300238: parallax_materials_119
+    21300240: parallax_materials_120
+    21300242: parallax_materials_121
+    21300244: parallax_materials_122
+    21300246: parallax_materials_123
+    21300248: parallax_materials_124
+    21300250: parallax_materials_125
+    21300252: parallax_materials_126
+    21300254: parallax_materials_127
+    21300256: parallax_materials_128
+    21300258: parallax_materials_129
+    21300260: parallax_materials_130
+    21300262: parallax_materials_131
+    21300264: parallax_materials_132
+    21300266: parallax_materials_133
+    21300268: parallax_materials_134
+    21300270: parallax_materials_135
+    21300272: parallax_materials_136
+    21300274: parallax_materials_137
+    21300276: parallax_materials_138
+    21300278: parallax_materials_139
+    21300280: parallax_materials_140
+    21300282: parallax_materials_141
+    21300284: parallax_materials_142
+    21300286: parallax_materials_143
+    21300288: parallax_materials_144
+    21300290: parallax_materials_145
+    21300292: parallax_materials_146
+    21300294: parallax_materials_147
+    21300296: parallax_materials_148
+    21300298: parallax_materials_149
+    21300300: parallax_materials_150
+    21300302: parallax_materials_151
+    21300304: parallax_materials_152
+    21300306: parallax_materials_153
+    21300308: parallax_materials_154
+    21300310: parallax_materials_155
+    21300312: parallax_materials_156
+    21300314: parallax_materials_157
+    21300316: parallax_materials_158
+    21300318: parallax_materials_159
+    21300320: parallax_materials_160
+    21300322: parallax_materials_161
+    21300324: parallax_materials_162
+    21300326: parallax_materials_163
+    21300328: parallax_materials_164
+    21300330: parallax_materials_165
+    21300332: parallax_materials_166
+    21300334: parallax_materials_167
+    21300336: parallax_materials_168
+    21300338: parallax_materials_169
+    21300340: parallax_materials_170
+    21300342: parallax_materials_171
+    21300344: parallax_materials_172
+    21300346: parallax_materials_173
+    21300348: parallax_materials_174
+    21300350: parallax_materials_175
+    21300352: parallax_materials_176
+    21300354: parallax_materials_177
+    21300356: parallax_materials_178
+    21300358: parallax_materials_179
+    21300360: parallax_materials_180
+    21300362: parallax_materials_181
+    21300364: parallax_materials_182
+    21300366: parallax_materials_183
+    21300368: parallax_materials_184
+    21300370: parallax_materials_185
+    21300372: parallax_materials_186
+    21300374: parallax_materials_187
+    21300376: parallax_materials_188
+    21300378: parallax_materials_189
+    21300380: parallax_materials_190
+    21300382: parallax_materials_191
+    21300384: parallax_materials_192
+    21300386: parallax_materials_193
+    21300388: parallax_materials_194
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parallax_materials_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 300
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 300
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 292
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 292
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 299
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 291
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 293
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 294
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 278
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 286
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 290
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 282
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 282
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 280
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 285
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 290
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 292
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_18
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 285
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 281
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 269
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 269
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 268
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 280
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 285
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 252
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 269
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 264
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 266
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_29
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 266
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 254
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 254
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_32
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 254
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 251
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_34
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 251
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_35
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 255
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_36
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 253
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_37
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 269
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 252
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_39
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 249
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 249
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 249
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 226
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 226
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 256
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 248
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_46
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 249
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_47
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 249
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_48
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 249
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_49
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 249
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_50
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 249
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_51
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 249
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 219
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_54
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 216
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 222
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 224
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_57
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_58
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 223
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_59
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 214
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_60
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 214
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_61
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 214
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_62
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 225
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_63
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 226
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_64
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 226
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_65
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 225
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 225
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 223
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_68
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 223
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_69
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 181
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_70
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 210
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_71
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 213
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_72
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 192
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_73
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 204
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_74
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 204
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_75
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 206
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_76
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 206
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_77
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 204
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_78
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 203
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_79
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 204
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_80
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 203
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 195
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_82
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 195
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_83
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 195
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_84
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 195
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_85
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 195
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_86
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 195
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_87
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 196
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_88
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 196
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 196
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_90
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 195
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_91
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 193
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 190
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_93
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_94
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 192
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_95
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 192
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_96
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 193
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_97
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 196
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_98
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 169
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_99
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 177
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_100
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 177
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_101
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_102
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_103
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 183
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_104
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 181
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_105
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 183
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_106
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 167
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_107
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_108
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 178
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_109
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 178
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_110
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 178
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_111
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 185
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 158
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_113
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 158
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_114
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 158
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 158
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_116
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 158
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_117
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 158
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_118
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 158
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_119
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 158
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_120
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 167
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_121
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 167
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_122
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 167
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_123
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 168
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_124
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 168
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_125
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 138
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_126
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 147
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_127
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 133
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_128
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 156
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_129
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 142
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_130
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 137
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_131
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 122
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_132
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 121
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_133
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 117
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_134
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 117
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_135
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 120
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_136
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 120
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_137
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 120
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_138
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 120
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_139
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 120
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_140
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 121
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_141
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 114
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_142
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 126
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_143
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 65
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_144
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_145
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 57
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_146
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 88
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_147
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 88
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_148
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 101
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_149
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 101
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_150
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 101
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_151
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 101
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_152
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_153
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 66
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_154
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 65
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_155
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 89
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_156
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 87
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_157
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 88
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_158
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 84
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_159
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 63
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_160
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 84
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_161
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 63
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_162
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 78
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_163
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 69
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_164
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 55
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_165
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 78
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_166
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 78
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_167
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 78
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_168
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 78
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_169
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 67
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_170
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 57
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_171
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 58
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_172
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 58
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_173
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_174
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_175
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_176
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 69
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_177
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 57
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_178
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_179
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 57
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_180
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_181
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_182
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_183
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 21
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_184
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 19
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_185
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_186
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_187
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_188
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_189
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_190
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_191
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_192
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 17
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_193
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 5
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parallax_materials_194
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 7
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 62abdcfa93f27d44c9dde377154a2986
+timeCreated: 1465360574
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NPC2_x5_0
+    21300002: NPC2_x5_1
+    21300004: NPC2_x5_2
+    21300006: NPC2_x5_3
+    21300008: NPC2_x5_4
+    21300010: NPC2_x5_5
+    21300012: NPC2_x5_6
+    21300014: NPC2_x5_7
+    21300016: NPC2_x5_8
+    21300018: NPC2_x5_9
+    21300020: NPC2_x5_10
+    21300022: NPC2_x5_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: NPC2_x5_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 229
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 70}
+        - {x: -29, y: 62}
+        - {x: -30, y: 54}
+        - {x: -30, y: 27}
+        - {x: -26, y: 0}
+        - {x: 30, y: 0}
+        - {x: 30, y: 70}
+    - name: NPC2_x5_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 229
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 70}
+        - {x: -30, y: 61}
+        - {x: -30, y: 14}
+        - {x: -25, y: 3}
+        - {x: -20, y: 0}
+        - {x: 28, y: 0}
+        - {x: 30, y: 1}
+        - {x: 30, y: 61}
+        - {x: 24, y: 70}
+    - name: NPC2_x5_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 229
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 70}
+        - {x: -29, y: 62}
+        - {x: -30, y: 54}
+        - {x: -30, y: 27}
+        - {x: -26, y: 0}
+        - {x: 30, y: 0}
+        - {x: 30, y: 70}
+    - name: NPC2_x5_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 60
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 75}
+        - {x: -29, y: 69}
+        - {x: -30, y: 64}
+        - {x: -30, y: 16}
+        - {x: -26, y: 0}
+        - {x: 26, y: 0}
+        - {x: 30, y: 14}
+        - {x: 30, y: 66}
+        - {x: 26, y: 75}
+    - name: NPC2_x5_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 129
+        width: 60
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 75}
+        - {x: -30, y: 67}
+        - {x: -30, y: 0}
+        - {x: 27, y: 0}
+        - {x: 30, y: 1}
+        - {x: 30, y: 60}
+        - {x: 25, y: 75}
+    - name: NPC2_x5_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 129
+        width: 60
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 75}
+        - {x: -30, y: 66}
+        - {x: -30, y: 6}
+        - {x: -28, y: 0}
+        - {x: 30, y: 0}
+        - {x: 30, y: 73}
+        - {x: 26, y: 75}
+    - name: NPC2_x5_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 29
+        width: 60
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 75}
+        - {x: -30, y: 66}
+        - {x: -30, y: 6}
+        - {x: -28, y: 0}
+        - {x: 30, y: 0}
+        - {x: 30, y: 73}
+        - {x: 26, y: 75}
+    - name: NPC2_x5_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 29
+        width: 60
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 75}
+        - {x: -30, y: 67}
+        - {x: -30, y: 0}
+        - {x: 27, y: 0}
+        - {x: 30, y: 1}
+        - {x: 30, y: 60}
+        - {x: 25, y: 75}
+    - name: NPC2_x5_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 29
+        width: 60
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 75}
+        - {x: -30, y: 67}
+        - {x: -30, y: 7}
+        - {x: -27, y: 0}
+        - {x: 27, y: 0}
+        - {x: 30, y: 15}
+        - {x: 30, y: 66}
+        - {x: 26, y: 75}
+    - name: NPC2_x5_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 229
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 70}
+        - {x: -30, y: 67}
+        - {x: -30, y: 0}
+        - {x: 19, y: 0}
+        - {x: 30, y: 13}
+        - {x: 30, y: 66}
+        - {x: 28, y: 70}
+    - name: NPC2_x5_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 229
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 33}
+        - {x: 30, y: 69}
+        - {x: 28, y: 70}
+        - {x: -30, y: 70}
+        - {x: -30, y: 0}
+        - {x: 18, y: 0}
+        - {x: 24, y: 4}
+        - {x: 21, y: 14}
+        - {x: 18, y: 16}
+    - name: NPC2_x5_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 229
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 70}
+        - {x: -30, y: 67}
+        - {x: -30, y: 0}
+        - {x: 19, y: 0}
+        - {x: 30, y: 13}
+        - {x: 30, y: 66}
+        - {x: 28, y: 70}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

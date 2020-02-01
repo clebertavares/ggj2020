@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: b9b088d3c28f126418d23a9f4e620364
+timeCreated: 1465349534
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_x5copy_0
+    21300002: hero_x5copy_1
+    21300004: hero_x5copy_2
+    21300006: hero_x5copy_3
+    21300008: hero_x5copy_4
+    21300010: hero_x5copy_5
+    21300012: hero_x5copy_6
+    21300014: hero_x5copy_7
+    21300016: hero_x5copy_8
+    21300018: hero_x5copy_9
+    21300020: hero_x5copy_10
+    21300022: hero_x5copy_11
+    21300024: hero_x5copy_12
+    21300026: hero_x5copy_13
+    21300028: hero_x5copy_14
+    21300030: hero_x5copy_15
+    21300032: hero_x5copy_16
+    21300034: hero_x5copy_17
+    21300036: herox5_0
+    21300038: herox5_1
+    21300040: herox5_2
+    21300042: herox5_3
+    21300044: herox5_4
+    21300046: herox5_5
+    21300048: herox5_6
+    21300050: herox5_7
+    21300052: herox5_8
+    21300054: herox5_12
+    21300056: herox5_13
+    21300058: herox5_14
+    21300060: herox5_15
+    21300062: herox5_16
+    21300064: herox5_17
+    21300066: herox5_9
+    21300068: herox5_10
+    21300070: herox5_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: herox5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 69}
+        - {x: -32, y: 31}
+        - {x: -16, y: -8}
+        - {x: 30, y: -8}
+        - {x: 37, y: -3}
+        - {x: 37, y: 69}
+    - name: herox5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 72}
+        - {x: -21, y: 70}
+        - {x: -32, y: 64}
+        - {x: -32, y: 23}
+        - {x: -18, y: -8}
+        - {x: 37, y: -8}
+        - {x: 37, y: 64}
+        - {x: 27, y: 72}
+    - name: herox5_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 45}
+        - {x: -25, y: 30}
+        - {x: -15, y: -8}
+        - {x: 37, y: -8}
+        - {x: 37, y: 54}
+        - {x: 31, y: 69}
+        - {x: -12, y: 69}
+        - {x: -21, y: 66}
+        - {x: -32, y: 57}
+    - name: herox5_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 69}
+        - {x: -32, y: 51}
+        - {x: -32, y: -4}
+        - {x: -26, y: -8}
+        - {x: 16, y: -8}
+        - {x: 37, y: 35}
+        - {x: 37, y: 60}
+        - {x: 19, y: 69}
+    - name: herox5_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 72}
+        - {x: -32, y: -7}
+        - {x: -27, y: -8}
+        - {x: 12, y: -8}
+        - {x: 37, y: 41}
+        - {x: 37, y: 65}
+        - {x: 33, y: 72}
+    - name: herox5_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 69}
+        - {x: -20, y: 69}
+        - {x: -32, y: 51}
+        - {x: -32, y: -2}
+        - {x: -29, y: -5}
+        - {x: -23, y: -8}
+        - {x: 21, y: -8}
+        - {x: 37, y: 41}
+        - {x: 37, y: 57}
+        - {x: 29, y: 64}
+    - name: herox5_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 67}
+        - {x: 15, y: 69}
+        - {x: -11, y: 69}
+        - {x: -22, y: 60}
+        - {x: -27, y: 25}
+        - {x: -27, y: 0}
+        - {x: -25, y: -3}
+        - {x: -6, y: -8}
+        - {x: 24, y: -8}
+        - {x: 36, y: 5}
+        - {x: 37, y: 14}
+        - {x: 37, y: 51}
+    - name: herox5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 72}
+        - {x: -27, y: -5}
+        - {x: 30, y: -5}
+        - {x: 37, y: 13}
+        - {x: 37, y: 70}
+        - {x: 28, y: 72}
+    - name: herox5_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 67}
+        - {x: 15, y: 69}
+        - {x: -11, y: 69}
+        - {x: -22, y: 60}
+        - {x: -27, y: 29}
+        - {x: -27, y: 1}
+        - {x: -19, y: -8}
+        - {x: 21, y: -8}
+        - {x: 30, y: -6}
+        - {x: 36, y: 19}
+        - {x: 37, y: 25}
+        - {x: 37, y: 51}
+    - name: herox5_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 69}
+        - {x: -33, y: 53}
+        - {x: -33, y: -7}
+        - {x: -30, y: -8}
+        - {x: 25, y: -8}
+        - {x: 36, y: 18}
+        - {x: 36, y: 62}
+        - {x: 9, y: 69}
+    - name: herox5_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 69}
+        - {x: -27, y: 63}
+        - {x: -27, y: -7}
+        - {x: -24, y: -8}
+        - {x: 37, y: -8}
+        - {x: 37, y: 69}
+    - name: herox5_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 72}
+        - {x: -27, y: 69}
+        - {x: -27, y: -5}
+        - {x: 32, y: -5}
+        - {x: 32, y: 72}
+    - name: herox5_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 80
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 69}
+        - {x: -20, y: 69}
+        - {x: -28, y: 55}
+        - {x: -28, y: -1}
+        - {x: -25, y: -6}
+        - {x: -5, y: -8}
+        - {x: 26, y: -8}
+        - {x: 36, y: -3}
+        - {x: 36, y: 48}
+        - {x: 35, y: 63}
+    - name: herox5_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 40}
+        - {x: -32, y: 32}
+        - {x: -32, y: -35}
+        - {x: -24, y: -40}
+        - {x: 30, y: -40}
+        - {x: 37, y: -38}
+        - {x: 37, y: 40}
+    - name: herox5_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 69}
+        - {x: -32, y: 53}
+        - {x: -32, y: -8}
+        - {x: 25, y: -8}
+        - {x: 37, y: -5}
+        - {x: 37, y: 69}
+      - - {x: 33, y: 52}
+        - {x: 33, y: 47}
+        - {x: 35, y: 45}
+        - {x: 40, y: 45}
+        - {x: 40, y: 54}
+        - {x: 35, y: 54}
+      - - {x: -23, y: 50}
+        - {x: -23, y: 57}
+        - {x: -24, y: 59}
+        - {x: -32, y: 59}
+        - {x: -32, y: 50}
+      - - {x: -22, y: 72}
+        - {x: -22, y: 67}
+        - {x: -20, y: 65}
+        - {x: -15, y: 65}
+        - {x: -13, y: 67}
+        - {x: -13, y: 72}
+    - name: herox5_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 69}
+        - {x: -18, y: 69}
+        - {x: -22, y: 60}
+        - {x: -29, y: 41}
+        - {x: -32, y: 22}
+        - {x: -32, y: -3}
+        - {x: -31, y: -5}
+        - {x: 40, y: -5}
+        - {x: 40, y: 38}
+        - {x: 35, y: 63}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
