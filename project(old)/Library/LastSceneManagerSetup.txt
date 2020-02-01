@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Troll Bridge Studios/2D Starter Kit/_Scenes/Additional Scenes (Do not
-    run)/_GGJ2017@HARMONIA MainMenu.unity
-  isLoaded: 1
-  isActive: 1
