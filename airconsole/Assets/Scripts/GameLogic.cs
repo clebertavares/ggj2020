@@ -27,10 +27,14 @@ public class GameLogic : MonoBehaviour
     public GameObject missile2_go;
     public bool missile1_b;
     public bool missile2_b;
-    public bool missileTotal_b;
 
-    //public Rigidbody2D ball;
-    //public float ballSpeed = 10f;
+    public GameObject shield1_go;
+    public GameObject shield2_go;
+    public GameObject shield3_go;
+    public bool shield1_b;
+    public bool shield2_b;
+    public bool shield3_b;
+
     public Text uiText;
 
 #if !DISABLE_AIRCONSOLE
@@ -102,7 +106,7 @@ public class GameLogic : MonoBehaviour
 
 		if (active_player != -1)
         {
-			if (active_player == 0)
+			if (active_player == 0)//player 1, esquerda, robo
             {
                 if (data["move"] != null)
                 {
@@ -199,6 +203,9 @@ public class GameLogic : MonoBehaviour
                     if ((float)data["move"] == 8)//botao 4
                     {
                         this.buttonFourPlayerRight = true;
+                        shield1_go.SetActive(true);
+                        shield2_go.SetActive(true);
+                        shield3_go.SetActive(true);
                     }
                 }             
             }

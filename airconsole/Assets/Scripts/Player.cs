@@ -14,6 +14,9 @@ public class Player : MonoBehaviour
     public bool special_touching;
     public bool missile1_touching;
     public bool missile2_touching;
+    public bool shield1_touching;
+    public bool shield2_touching;
+    public bool shield3_touching;
 
     //criar um numero q receba shiel duration e contador p so poder criar depois canCreateShield
 
@@ -31,6 +34,19 @@ public class Player : MonoBehaviour
         {
             missile2_touching = true;
         }
+
+        if (collision.tag == "shield1")
+        {
+            shield1_touching = true;
+        }
+        if (collision.tag == "shield2")
+        {
+            shield2_touching = true;
+        }
+        if (collision.tag == "shield3")
+        {
+            shield3_touching = true;
+        }
     }
 
     void OnTriggerExit2D(Collider2D collision)
@@ -46,6 +62,19 @@ public class Player : MonoBehaviour
         if (collision.tag == "missile2")
         {
             missile2_touching = false;
+        }
+
+        if (collision.tag == "shield1")
+        {
+            shield1_touching = false;
+        }
+        if (collision.tag == "shield2")
+        {
+            shield2_touching = false;
+        }
+        if (collision.tag == "shield3")
+        {
+            shield3_touching = false;
         }
     }
 
@@ -72,6 +101,24 @@ public class Player : MonoBehaviour
                     gameLogic.missile2_b = true;
                     gameLogic.missile2_go.SetActive(false);
                     missile2_touching = false;
+                }
+                if (shield1_touching)
+                {
+                    gameLogic.shield1_b = true;
+                    gameLogic.shield1_go.SetActive(false);
+                    shield1_touching = false;
+                }
+                if (shield2_touching)
+                {
+                    gameLogic.shield2_b = true;
+                    gameLogic.shield2_go.SetActive(false);
+                    shield2_touching = false;
+                }
+                if (shield3_touching)
+                {
+                    gameLogic.shield3_b = true;
+                    gameLogic.shield3_go.SetActive(false);
+                    shield3_touching = false;
                 }
                 gameLogic.buttonOnePlayerLeft = false;
             }
@@ -108,13 +155,15 @@ public class Player : MonoBehaviour
                 gameLogic.missile2_b = false;
             }
 
-            if (gameLogic.buttonFourPlayerRight)
+            if (gameLogic.shield1_b && gameLogic.shield2_b && gameLogic.shield3_b)
             {
                 if (shield)//na verdade testar se ja existe antes de criar novo
                 {
                     Instantiate(shield, this.transform.position, Quaternion.identity);
                 }
-                gameLogic.buttonFourPlayerRight = false;
+                gameLogic.shield1_b = false;
+                gameLogic.shield2_b = false;
+                gameLogic.shield3_b = false;
             }
         }
     }

@@ -5,10 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - special
-  - missile
-  - shield
   - missile1
   - missile2
+  - shield1
+  - shield2
+  - shield3
   layers:
   - Default
   - TransparentFX
