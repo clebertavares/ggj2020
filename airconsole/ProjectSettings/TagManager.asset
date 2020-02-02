@@ -11,6 +11,12 @@ TagManager:
   - shield2
   - shield3
   - enemy
+  - shootPlayer1
+  - shootPlayer2
+  - shootPlayer3
+  - shootEnemy1
+  - shootEnemy2
+  - shootEnemy3
   layers:
   - Default
   - TransparentFX
