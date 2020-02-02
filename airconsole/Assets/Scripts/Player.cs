@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using TMPro;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -19,6 +22,10 @@ public class Player : MonoBehaviour
     public bool shield1_touching;
     public bool shield2_touching;
     public bool shield3_touching;
+
+    public GameObject explosion;
+
+    public TextMeshProUGUI energyTxt;
 
     //criar um numero q receba shiel duration e contador p so poder criar depois canCreateShield
 
@@ -48,6 +55,12 @@ public class Player : MonoBehaviour
         if (collision.tag == "shield3")
         {
             shield3_touching = true;
+        }
+
+        if(collision.tag == "shootEnemy1" || collision.tag == "shootEnemy2" || collision.tag == "shootEnemy3")
+        {
+            energy -= collision.GetComponent<Shoot>().damage;
+            
         }
     }
 
@@ -80,8 +93,32 @@ public class Player : MonoBehaviour
         }
     }
 
+    IEnumerator Wait(float t)
+    {
+        yield return new WaitForSeconds(t);
+
+        Scene scene = SceneManager.GetActiveScene(); SceneManager.LoadScene(scene.name);
+    }
+
     void Update()
     {
+        if (!this.GetComponent<SpriteRenderer>().enabled)
+            return;
+
+        if(energyTxt)
+            energyTxt.text = energy.ToString();//tirar do update e fazer evento
+
+        if (energy <= 0)
+        {
+            GameObject go = Instantiate(explosion, this.transform.position, Quaternion.identity);
+            Destroy(go, 0.5f);
+            this.GetComponent<SpriteRenderer>().enabled = false;
+            //chamar o game over / recomeçar
+            //tirar do update aqui...
+            //fazer barra de energia...
+            StartCoroutine(Wait(2));
+        }
+
         if (playerNumber == 0)//esquerda robo
         {
             if (gameLogic.buttonOnePlayerLeft)

@@ -14,6 +14,8 @@ public class Enemy : MonoBehaviour
 
     public float energy;
 
+    public GameObject explosion;
+
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
@@ -30,5 +32,29 @@ public class Enemy : MonoBehaviour
     void Update()
     {
         this.rb2d.velocity = Vector3.up * vel;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "shootPlayer")
+        {
+            energy -= collision.GetComponent<Shoot>().damage;
+
+            if(energy<=0)
+            {
+                GameObject go = Instantiate(explosion, this.transform.position, Quaternion.identity);
+                Destroy(go, 0.5f);
+                Destroy(this.gameObject);
+            }
+        }
+
+        if (collision.tag == "Player")
+        {
+            //Destroy(collision.gameObject);//gameover, q fazer? remover energia?
+            collision.GetComponent<Player>().energy -= 10;//?como mostrar?
+            GameObject go = Instantiate(explosion, this.transform.position, Quaternion.identity);
+            Destroy(go, 0.5f);
+            Destroy(this.gameObject);
+        }
     }
 }

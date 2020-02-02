@@ -692,6 +692,18 @@ PolygonCollider2D:
       - {x: 0.0022019148, y: -2.4592664}
       - {x: 0.9235697, y: -2.4774008}
       - {x: 0.9058981, y: -2.3295677}
+--- !u!114 &1172879864 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1172879864, guid: 5135914d7be17354c8b4ca96b59d8e6b,
+    type: 3}
+  m_PrefabInstance: {fileID: 3542243978125060360}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1202291513
 GameObject:
   m_ObjectHideFlags: 0
@@ -1306,6 +1318,22 @@ PrefabInstance:
       propertyPath: gameLogic
       value: 
       objectReference: {fileID: 1604089049}
+    - target: {fileID: 1655829235600073518, guid: 591a1c8d8b7d3c4409a7c9d50401dbde,
+        type: 3}
+      propertyPath: energy
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1655829235600073518, guid: 591a1c8d8b7d3c4409a7c9d50401dbde,
+        type: 3}
+      propertyPath: explosion
+      value: 
+      objectReference: {fileID: 6209933081210098544, guid: 07ae8a4cf8af0a043a0effe1b1cd27ff,
+        type: 3}
+    - target: {fileID: 1655829235600073518, guid: 591a1c8d8b7d3c4409a7c9d50401dbde,
+        type: 3}
+      propertyPath: energyTxt
+      value: 
+      objectReference: {fileID: 1172879864}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 591a1c8d8b7d3c4409a7c9d50401dbde, type: 3}
 --- !u!1001 &1684346468993207525
@@ -1629,11 +1657,6 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1692421251}
-    - target: {fileID: 3542243976652208343, guid: 5135914d7be17354c8b4ca96b59d8e6b,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5135914d7be17354c8b4ca96b59d8e6b, type: 3}
 --- !u!1001 &5745472590537998107
@@ -1708,6 +1731,22 @@ PrefabInstance:
       propertyPath: gameLogic
       value: 
       objectReference: {fileID: 1604089049}
+    - target: {fileID: 5745472590679730007, guid: 853da2cf78c88e84ba30703b35cd59e3,
+        type: 3}
+      propertyPath: explosion
+      value: 
+      objectReference: {fileID: 6209933081210098544, guid: 07ae8a4cf8af0a043a0effe1b1cd27ff,
+        type: 3}
+    - target: {fileID: 5745472590679730007, guid: 853da2cf78c88e84ba30703b35cd59e3,
+        type: 3}
+      propertyPath: energy
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5745472590679730007, guid: 853da2cf78c88e84ba30703b35cd59e3,
+        type: 3}
+      propertyPath: energyTxt
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 853da2cf78c88e84ba30703b35cd59e3, type: 3}
 --- !u!1001 &6348058623879334623

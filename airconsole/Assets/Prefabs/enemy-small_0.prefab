@@ -99,6 +99,8 @@ MonoBehaviour:
   shoot: {fileID: 3676586083706213665, guid: 6371e5f3870ba6e4a9840e0cea4d8825, type: 3}
   timeToShoot: 3
   energy: 4
+  explosion: {fileID: 6209933081210098544, guid: 07ae8a4cf8af0a043a0effe1b1cd27ff,
+    type: 3}
 --- !u!61 &2148360431901567636
 BoxCollider2D:
   m_ObjectHideFlags: 0
