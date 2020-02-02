@@ -18,6 +18,17 @@ public class GameLogic : MonoBehaviour
     public bool buttonThreePlayerRight;
     public bool buttonFourPlayerRight;
 
+    public GameObject special_go;
+    public bool special_b;
+
+    //fazer uma lista de um objeto especial q contenha o go e o b
+
+    public GameObject missile1_go;
+    public GameObject missile2_go;
+    public bool missile1_b;
+    public bool missile2_b;
+    public bool missileTotal_b;
+
     //public Rigidbody2D ball;
     //public float ballSpeed = 10f;
     public Text uiText;
@@ -140,7 +151,7 @@ public class GameLogic : MonoBehaviour
                 }
                
             }
-			if (active_player == 1)
+			if (active_player == 1)//player 2, direita, nave
             {
                 if (data["move"] != null)
                 {
@@ -170,17 +181,20 @@ public class GameLogic : MonoBehaviour
                         this.buttonThreePlayerRight = false;
                         this.buttonFourPlayerRight = false;
                     }
-                    if ((float)data["move"] == 5)//botao 1
+                    if ((float)data["move"] == 5)//botao 1, tiro comum
                     {
                         this.buttonOnePlayerRight = true;
                     }
-                    if ((float)data["move"] == 6)//botao 2
+                    if ((float)data["move"] == 6)//botao 2, tiro especial
                     {
                         this.buttonTwoPlayerRight = true;
+                        special_go.SetActive(true);
                     }
-                    if ((float)data["move"] == 7)//botao 3
+                    if ((float)data["move"] == 7)//botao 3, missil
                     {
                         this.buttonThreePlayerRight = true;
+                        missile1_go.SetActive(true);
+                        missile2_go.SetActive(true);
                     }
                     if ((float)data["move"] == 8)//botao 4
                     {
