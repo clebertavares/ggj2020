@@ -2,7 +2,9 @@
 
 public class Player : MonoBehaviour
 {
-	public GameLogic gameLogic;
+    public float energy;
+
+    public GameLogic gameLogic;
 
     public int playerNumber;
 

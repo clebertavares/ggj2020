@@ -6,6 +6,8 @@ public class Shoot : MonoBehaviour
 
     public Rigidbody2D rb2d;
 
+    public float damage;
+
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();

@@ -95,6 +95,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vel: 5
   rb2d: {fileID: 3787187033913729374}
+  damage: 8
 --- !u!50 &3787187033913729374
 Rigidbody2D:
   serializedVersion: 4
