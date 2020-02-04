@@ -2070,6 +2070,51 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameLogic
       objectReference: {fileID: 0}
+    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
+        type: 3}
+      propertyPath: playerLeft
+      value: 
+      objectReference: {fileID: 1006098509}
+    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
+        type: 3}
+      propertyPath: playerRight
+      value: 
+      objectReference: {fileID: 1112524463}
+    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
+        type: 3}
+      propertyPath: special_go
+      value: 
+      objectReference: {fileID: 1862711082}
+    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
+        type: 3}
+      propertyPath: missile1_go
+      value: 
+      objectReference: {fileID: 768575076}
+    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
+        type: 3}
+      propertyPath: missile2_go
+      value: 
+      objectReference: {fileID: 1983785198}
+    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
+        type: 3}
+      propertyPath: shield1_go
+      value: 
+      objectReference: {fileID: 1229893162}
+    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
+        type: 3}
+      propertyPath: shield2_go
+      value: 
+      objectReference: {fileID: 369254341}
+    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
+        type: 3}
+      propertyPath: shield3_go
+      value: 
+      objectReference: {fileID: 56510885}
+    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
+        type: 3}
+      propertyPath: uiText
+      value: 
+      objectReference: {fileID: 1508142942}
     - target: {fileID: 9170311183817183205, guid: 404b84e4c16cd8343b1614b4c97ebee9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2125,50 +2170,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
-        type: 3}
-      propertyPath: playerLeft
-      value: 
-      objectReference: {fileID: 1006098509}
-    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
-        type: 3}
-      propertyPath: playerRight
-      value: 
-      objectReference: {fileID: 1112524463}
-    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
-        type: 3}
-      propertyPath: special_go
-      value: 
-      objectReference: {fileID: 1862711082}
-    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
-        type: 3}
-      propertyPath: missile1_go
-      value: 
-      objectReference: {fileID: 768575076}
-    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
-        type: 3}
-      propertyPath: missile2_go
-      value: 
-      objectReference: {fileID: 1983785198}
-    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
-        type: 3}
-      propertyPath: shield1_go
-      value: 
-      objectReference: {fileID: 1229893162}
-    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
-        type: 3}
-      propertyPath: shield2_go
-      value: 
-      objectReference: {fileID: 369254341}
-    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
-        type: 3}
-      propertyPath: shield3_go
-      value: 
-      objectReference: {fileID: 56510885}
-    - target: {fileID: 9170311183817183204, guid: 404b84e4c16cd8343b1614b4c97ebee9,
-        type: 3}
-      propertyPath: uiText
-      value: 
-      objectReference: {fileID: 1508142942}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 404b84e4c16cd8343b1614b4c97ebee9, type: 3}
